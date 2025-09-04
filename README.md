@@ -10,10 +10,6 @@ This project addresses the complexities of the airline industry by leveraging Po
 
 The final published dashboard provides a comprehensive overview of airline operations, featuring key metrics on passenger volume, booking statuses, and flight details.
 
-*(**Note:** Replace the text below with a screenshot of your final dashboard from the Power BI Service.)*
-
-`[Screenshot of the final, published dashboard]`
-
 ---
 
 ## ✨ Key Features
@@ -91,6 +87,6 @@ The analysis is based on the following datasets:
 ## 🔧 Tools Used
 
 * **Microsoft Power BI Desktop**
-* **Power Query (M Language)**
+* **Power Query**
 * **DAX (Data Analysis Expressions)**
 * **Power BI Service**
